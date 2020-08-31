@@ -1,4 +1,5 @@
 CatMiner
+
 Adressatengerechte Business-Process-Discovery
 
 Um die Design-Principles in einem Design-Artefakt umzusetzen, wurde ein eigenständiges, auf Java 8 basierendes Programm namens CatMiner  erstellt.
