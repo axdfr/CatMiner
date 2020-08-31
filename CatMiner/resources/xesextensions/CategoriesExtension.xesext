@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xesextension uri="https://github.com/axdfr/category/blob/master/CategoriesExtension.xesext" prefix="cat" name="Categorization">
+	<!-- Allows activities to belong to definable categories, that can be used in order to customize visualizations. -->
+		<event>
+			<!-- Storing all categories that the respective event belongs to. -->
+			<list key="Categories">
+				<alias mapping="EN" name="Categories list"/>
+			</list>
+		</event>
+		<meta>
+			<!-- Names of the respective categories. -->
+			<string key="Category"> 
+				<alias mapping="EN" name="Category name"/> 
+			</string>
+		</meta>
+</xesextension>

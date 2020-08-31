@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/Programme2/OpenXES-20181205.jar"/>
+	<classpathentry kind="lib" path="H:/Programme2/jar_files/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="H:/Programme2/Spex-1.0/lib/Spex.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FuzzyMiner"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/ProM-Models/jars/ProM-Models-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/PetriNets/jars/PetriNets-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/HeuristicsMiner/jars/HeuristicsMiner-latest.jar"/>
+	<classpathentry kind="lib" path="H:/Programme2/colt/lib/colt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/ProM-Framework/jars/ProM-Framework-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom-libs/jgraph/jars/jgraph-5.13.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom-libs/jgrapht/jars/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/InteractiveVisualization/jars/InteractiveVisualization-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/ProM-Plugins/jars/ProM-Plugins-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom/Widgets/jars/Widgets-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leona/.ivy2/cache/prom-libs/slickerbox/jars/slickerbox-1.0rc1.jar"/>
+	<classpathentry kind="lib" path="H:/Programme2/jgraphx-master/jgraphx-master/lib/jgraphx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
